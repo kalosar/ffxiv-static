@@ -2,7 +2,7 @@
 
 This is a better solution, super simple and with darkmode built in :smiley: wop wop
 
-## Rais schedule
+## Raids schedule
 
 | MON - THU | FRI       | SAT       | SUN       |
 | --------- | --------- | --------- | --------- |
