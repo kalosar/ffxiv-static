@@ -1,8 +1,8 @@
+#### WORK IN PROGRESS
+
 # LIMIT BREAK
 
 This is a better solution, super simple and with darkmode built in :smiley: wop wop
-
-_work in progress_
 
 ## Raids schedule
 
