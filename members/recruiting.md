@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe dolores atque au
 
 ## Available slots
 
-<VPTeamMembers size="medium" :members="recruiting" />
+<VPTeamMembers size="small" :members="recruiting" />
 
 ## Requirements
 
