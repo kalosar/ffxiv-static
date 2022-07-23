@@ -21,7 +21,7 @@ function nav() {
       activeMatch: "/members/index",
     },
     {
-      text: "Recruting",
+      text: "Recruiting",
       link: "/members/recruiting",
       activeMatch: "/members/recruiting",
     },
