@@ -59,6 +59,6 @@ const recruiting = [
 
 ## Available slots
 
-See the [recruting](/recruiting.md) page for more details.
+See the [recruting](./recruiting.md) page for more details.
 
 <VPTeamMembers size="medium" :members="recruiting" />
