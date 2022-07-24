@@ -7,14 +7,26 @@ const members = [
     name: 'Emi E\'yla',
     title: 'Caster',
     org: 'FFLOGS',
-    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/emi%20e%27yla'
+    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/emi%20e%27yla',
+    links: [
+      { 
+        icon: 'discord',
+        link: 'https://discordapp.com/users/102178270178480128/'
+      }
+    ]
   },
   {
     avatar: 'https://img2.finalfantasyxiv.com/f/76207937f8c9a5e2f5dc149c0ab15f70_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1657995139',
     name: 'Elizynne E\'yla',
     title: 'Pure Healer',
     org: 'FFLOGS',
-    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/elizynne%20e%27yla'
+    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/elizynne%20e%27yla',
+    links: [
+      {
+        icon: 'discord',
+        link: 'https://discordapp.com/users/228154454304751626/'
+      }
+    ]
   }
 ]
 
