@@ -55,7 +55,7 @@ const recruiting = [
 
 # Recruiting
 
-Limit Break is a New Hard Core static with aims to complete the next upcoming savage tier in the first week. We wish to raid everyday when the tier releases, and have a team without toxicity. Limit Break’s standard encourages people to give and receive constructive feedback, helping out your team members so that we can get those clears. 
+Limit Break is a New Hard Core static with aims to complete the next upcoming savage tier in the first week. We wish to raid everyday when the tier releases, and have a team without toxicity. Limit Break’s standard encourages people to give and receive constructive feedback, helping out your team members so that we can get those clears.
 
 ## Available slots
 
@@ -63,33 +63,30 @@ Limit Break is a New Hard Core static with aims to complete the next upcoming sa
 
 ## Requirements
 
-Discord VC
-You do not have to have experience in a hardcore static, only have a hardcore mindset
-No rules against partyfinder provided it’s not before the weekly clear.
-Team Player
-Must have completed all of the current tier. 
+- Discord VC
+- You do not have to have experience in a hardcore static, only have a hardcore mindset
+- No rules against partyfinder provided it’s not before the weekly clear.
+- Team Player
+- Must have completed all of the current tier.
+- It is really important that you understand your class and job very well. That being said, we expect a minimum best of purples for each kill.
 
-### Logs
+## Schedule
 
-It is really important that you understand your class and job very well. That being said, we expect a minimum best of purples for each kill.
+To complete our aim, there will be daily raiding for 12 hours a day upon release. You will be expected to take the first week off work. If a clear has not been achieved in the first week, then the second week onwards we will be raiding daily at a reduced schedule to fit with work. Once cleared, raid days will be reduced to one reclear day a week.
 
-### Schedule
-
-To complete our aim, there will be daily raiding for 12 hours a day upon release. You will be expected to take the first week off work. If a clear has not been achieved in the first week, then the second week onwards we will be raiding daily at a reduced schedule to fit with work. Once cleared, raid days will be reduced to one reclear day a week. 
-
-#### Week 1
+### Week 1
 
 | Monday - Sunday |
 | --------------- |
 | 10ST - 22ST     |
 
-#### Week 2 - Until clear
+### Week 2 - Until clear
 
 | Monday - Friday | Saturday - Sunday |
 | --------------- | ----------------- |
 | 17ST - 22ST     | 10ST - 22ST       |
 
-#### Reclears
+### Reclears
 
 | Tuesday      |
 | ------------ |
