@@ -55,12 +55,7 @@ const recruiting = [
 
 # Recruiting
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia voluptatibus tempora alias. Cum quisquam vero officia facilis deserunt nulla! Non saepe soluta odit iusto suscipit veniam, placeat beatae inventore molestiae.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, nihil. Excepturi, delectus dignissimos quam in aspernatur, alias temporibus eum, laudantium necessitatibus doloremque minima quasi perferendis consectetur sed ex! Nostrum, tenetur.
-Debitis consequuntur magni ullam, ex provident non pariatur laboriosam explicabo porro aliquam deserunt a accusantium amet eligendi. Accusantium a totam qui fugiat nostrum iure cumque ipsum dolores quisquam, quia quo?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe dolores atque autem illum ipsum omnis iste rem dolor optio ut commodi aut ullam perferendis, facilis debitis. Quos, obcaecati?
+Limit Break is a New Hard Core static with aims to complete the next upcoming savage tier in the first week. We wish to raid everyday when the tier releases, and have a team without toxicity. Limit Break’s standard encourages people to give and receive constructive feedback, helping out your team members so that we can get those clears. 
 
 ## Available slots
 
@@ -68,15 +63,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe dolores atque au
 
 ## Requirements
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel odio sunt modi libero blanditiis maxime, deleniti corporis tempore dicta quisquam dolore neque cumque molestiae ab voluptatibus hic, impedit at nulla!
+Discord VC
+You do not have to have experience in a hardcore static, only have a hardcore mindset
+No rules against partyfinder provided it’s not before the weekly clear.
+Team Player
+Must have completed all of the current tier. 
 
 ### Logs
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita nulla, architecto voluptate quasi doloremque, ut, minus iusto unde porro possimus alias. Impedit tempora ducimus dolorem, aperiam velit facere molestias minus!
+It is really important that you understand your class and job very well. That being said, we expect a minimum best of purples for each kill.
 
 ### Schedule
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum hic laboriosam, voluptatum labore delectus et quisquam eligendi vero odit ad dolor culpa veritatis porro repellat, possimus illum dolorem reiciendis voluptas?
+To complete our aim, there will be daily raiding for 12 hours a day upon release. You will be expected to take the first week off work. If a clear has not been achieved in the first week, then the second week onwards we will be raiding daily at a reduced schedule to fit with work. Once cleared, raid days will be reduced to one reclear day a week. 
 
 #### Week 1
 
@@ -88,13 +87,13 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum hic laboriosam, vo
 
 | Monday - Friday | Saturday - Sunday |
 | --------------- | ----------------- |
-| 16ST - 22ST     | 10ST - 22ST       |
+| 17ST - 22ST     | 10ST - 22ST       |
 
 #### Reclears
 
 | Tuesday      |
 | ------------ |
-| 16ST - CLEAR |
+| 17ST - CLEAR |
 
 ## Members
 
