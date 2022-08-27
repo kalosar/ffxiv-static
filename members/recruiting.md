@@ -88,7 +88,9 @@ On top of this we are expecting our members to aquire pre-bis *(crafted and pent
 
 ## :date: Schedule
 
-To complete our aim, there will be daily raiding for 12 hours a day upon release, with breaks throughtout the day. You will be expected to take the first week off work. If a clear has not been achieved in the first week, then the second week onwards we will be raiding daily at a reduced schedule to fit with work. Once cleared, raid days will be reduced to one reclear day a week.
+To complete our aim, there will be daily raiding for 10 hours a day upon release, with breaks throughtout the day. You will be expected to take the first week off work. If a clear has not been achieved in the first week, then the second week onwards we will be raiding daily at a reduced schedule to fit with work. Once cleared, raid days will be reduced to one reclear day a week.
+
+The schedule is fluid at the moment and can still be adjusted a little. The aim is to set of 10h a day, but we will fit in breaks between lockout sessions and a larger break at some point of the day. 
 
 `ST = Server Time`
 
@@ -96,7 +98,7 @@ To complete our aim, there will be daily raiding for 12 hours a day upon release
 
 | Monday - Sunday |
 | :-------------: |
-| 10ST - 22ST     |
+| 12ST - 22ST     |
 
 ### Week 2 - Until clear
 
