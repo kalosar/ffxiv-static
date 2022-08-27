@@ -96,9 +96,9 @@ The schedule is fluid at the moment and can still be adjusted a little. The aim 
 
 ### Week 1
 
-| Monday - Sunday |
-| :-------------: |
-| 12ST - 22ST     |
+| Tuesday - Sunday |
+| :--------------: |
+| 12ST - 22ST      |
 
 ### Week 2 - Until clear
 
