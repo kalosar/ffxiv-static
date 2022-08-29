@@ -44,6 +44,13 @@ const members = [
     orgLink: 'https://www.fflogs.com/character/eu/ragnarok/tonntra%20to',
   },
   {
+    avatar: 'https://img2.finalfantasyxiv.com/f/03a93c1264f864a1b62f9a507ffd4943_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661719909',
+    name: 'Meluna Miyazaki',
+    title: 'Melee',
+    org: 'FFLOGS',
+    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/meluna%20miyazaki',
+  },
+  {
     avatar: 'https://img2.finalfantasyxiv.com/f/8047c4f1f85f1b426e4e5bf5cde1b2d7_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661686301',
     name: 'Frost Toshiro',
     title: 'Ranged Physical',
@@ -65,24 +72,15 @@ const members = [
   }
 ]
 
-const recruiting = [
-  {
-    avatar: '/mel4.svg',
-    name: 'DPS',
-    title: 'Melee'
-  }
-]
-
 </script>
-
-# Limit Break
-
-## Members
+# Members
 
 <VPTeamMembers size="medium" :members="members" />
 
+<!--
 ## Available slots
 
 See the [recruting](./recruiting.md) page for more details.
 
 <VPTeamMembers size="small" :members="recruiting" />
+-->

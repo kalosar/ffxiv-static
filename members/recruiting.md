@@ -44,6 +44,13 @@ const members = [
     orgLink: 'https://www.fflogs.com/character/eu/ragnarok/tonntra%20to',
   },
   {
+    avatar: 'https://img2.finalfantasyxiv.com/f/03a93c1264f864a1b62f9a507ffd4943_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661719909',
+    name: 'Meluna Miyazaki',
+    title: 'Melee',
+    org: 'FFLOGS',
+    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/meluna%20miyazaki',
+  },
+  {
     avatar: 'https://img2.finalfantasyxiv.com/f/8047c4f1f85f1b426e4e5bf5cde1b2d7_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661686301',
     name: 'Frost Toshiro',
     title: 'Ranged Physical',
@@ -65,13 +72,7 @@ const members = [
   }
 ]
 
-const recruiting = [
-  {
-    avatar: '/mel4.svg',
-    name: 'DPS',
-    title: 'Melee'
-  }
-]
+const recruiting = []
 
 </script>
 
@@ -81,7 +82,8 @@ Limit Break is a new sHC static with aims to complete the next upcoming savage t
 
 ## Available slots
 
-<VPTeamMembers size="small" :members="recruiting" />
+<!--VPTeamMembers v-if="recruiting" size="small" :members="recruiting" /-->
+No available slots.
 
 ## :page_with_curl: Requirements
 
@@ -92,9 +94,7 @@ It is really important that you understand your class and job very well. You do 
 :ballot_box_with_check: Prog mentality  <br>
 :ballot_box_with_check: Savage experience  <br>
 
-On top of this we are expecting our members to aquire pre-bis *(crafted and pentamelded, tome gear and extreme trial wepaon)*. We can help out with crafting :hammer_and_pick: if needed.
-
-
+On top of this we are expecting our members to aquire pre-bis *(crafted and pentamelded, tome gear and extreme trial weapan)*. We can help out with crafting :hammer_and_pick: if needed.
 
 ## :date: Schedule
 
