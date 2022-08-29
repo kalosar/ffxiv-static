@@ -67,31 +67,6 @@ const members = [
 
 const recruiting = [
   {
-    avatar: '/tnk4.svg',
-    name: 'Tank',
-    title: 'Main'
-  },
-  {
-    avatar: '/tnk4.svg',
-    name: 'Tank',
-    title: 'Off'
-  },
-  {
-    avatar: '/hlr4.svg',
-    name: 'Healer',
-    title: 'Barrier'
-  },
-  {
-    avatar: '/rng4.svg',
-    name: 'DPS',
-    title: 'Phys. Ranged',
-  },
-  {
-    avatar: '/mel4.svg',
-    name: 'DPS',
-    title: 'Melee'
-  },
-  {
     avatar: '/mel4.svg',
     name: 'DPS',
     title: 'Melee'
