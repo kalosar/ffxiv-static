@@ -106,6 +106,6 @@ We are currently in a reclear schedule. This means we aim to reclear all fights 
 | :--------------: |
 | 18:30 ST - CLEAR |
 
-## :crossed_swords: Members
+## :crossed_swords: Meet the members
 
 <VPTeamMembers size="medium" :members="members" />
