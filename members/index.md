@@ -66,7 +66,7 @@ const members = [
 ]
 
 </script>
-# Members
+# Meet the members
 
 <VPTeamMembers size="medium" :members="members" />
 
