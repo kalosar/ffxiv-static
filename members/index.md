@@ -85,4 +85,3 @@ const recruiting = [
 See the [recruting](./recruiting.md) page for more details.
 
 <VPTeamMembers size="small" :members="recruiting" />
--->
