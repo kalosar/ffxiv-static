@@ -78,7 +78,8 @@ const recruiting = [
 </script>
 
 # Recruiting
-Limit Break is a long term sHC static which aim to build towards future tiers and ultimates. Limit Break’s standard encourages people to give and receive constructive feedback, helping out your team members so that we can get those clears. We are currenlty reclearing current tier weekly for the weekly loot, and therefore mostly looking for members who have cleared current tier.
+
+Limit Break is a long term sHC static whom engages in savage and ultimate content. We work on reclearing the current tier and building ourselves into becoming better players ready for the next tier and week 1 attempts. Limit Break's standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill. 
 
 ## Available slots
 
