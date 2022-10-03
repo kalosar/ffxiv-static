@@ -78,8 +78,7 @@ const recruiting = [
 </script>
 
 # Recruiting
-
-Limit Break is a new sHC static with aims to complete the next upcoming savage tier in the first week. We wish to raid everyday when the tier releases, and have a team without toxicity. Limit Break’s standard encourages people to give and receive constructive feedback, helping out your team members so that we can get those clears.
+Limit Break is a long term sHC static which aim to build towards future tiers and ultimates. Limit Break’s standard encourages people to give and receive constructive feedback, helping out your team members so that we can get those clears. We are currenlty reclearing current tier weekly for the weekly loot, and therefore mostly looking for members who have cleared current tier.
 
 ## Available slots
 
@@ -88,40 +87,23 @@ Limit Break is a new sHC static with aims to complete the next upcoming savage t
 
 ## :page_with_curl: Requirements
 
-It is really important that you understand your class and job very well. You do not have to have experience in a hardcore static or ultimate, just have hardcore mindset and strong prog mentality.
+It is really important that you understand your class and job very well. You do not have to have experience in a hardcore static or ultimate, just have hardcore mindset and strong prog mentality. At the top of this its important that you communicate well. Call out your own mistaks, or ask questions if you are not sure about something. This is how we keep a good momentum.
 
 :ballot_box_with_check: Discord VC <br>
 :ballot_box_with_check: Team Player  <br>
 :ballot_box_with_check: Prog mentality  <br>
-:ballot_box_with_check: Savage experience  <br>
+:ballot_box_with_check: Cleared current tier  <br>
 
-On top of this we are expecting our members to aquire pre-bis *(crafted and pentamelded, tome gear and extreme trial weapan)*. We can help out with crafting :hammer_and_pick: if needed.
+We can help out with crafting :hammer_and_pick: if needed.
 
 ## :date: Schedule
 
-To complete our aim, there will be daily raiding for 10 hours a day upon release, with breaks throughtout the day. You will be expected to take the first week off work. If a clear has not been achieved in the first week, then the second week onwards we will be raiding daily at a reduced schedule to fit with work. Once cleared, raid days will be reduced to one reclear day a week.
-
-The schedule is fluid at the moment and can still be adjusted a little. The aim is to set of 10h a day, but we will fit in breaks between lockout sessions and a larger break at some point of the day. 
-
+We are currently in a reclear schedule. This means we aim to reclear all fights on tuesday reset.
 `ST = Server Time`
 
-### Week 1
-
-| Tuesday - Sunday |
+| Tuesday          |
 | :--------------: |
-| 12ST - 22ST      |
-
-### Week 2 - Until clear
-
-| Monday - Friday | Saturday - Sunday |
-| :-------------: | :---------------: |
-| 17ST - 22ST     | 10ST - 22ST       |
-
-### Reclears
-
-| Tuesday      |
-| :----------: |
-| 17ST - CLEAR |
+| 18:30 ST - CLEAR |
 
 ## :crossed_swords: Members
 
