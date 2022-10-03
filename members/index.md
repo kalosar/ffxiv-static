@@ -65,12 +65,21 @@ const members = [
   }
 ]
 
+const recruiting = [
+  {
+    avatar: '/hlr4.svg',
+    name: 'Healer',
+    title: 'Barrier',
+    org: '',
+    orgLink: '',
+  }
+]
+
 </script>
 # Meet the members
 
 <VPTeamMembers size="medium" :members="members" />
 
-<!--
 ## Available slots
 
 See the [recruting](./recruiting.md) page for more details.
