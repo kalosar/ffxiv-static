@@ -104,7 +104,7 @@ We are currently in a reclear schedule. This means we aim to reclear all fights 
 
 | Tuesday          |
 | :--------------: |
-| 18:30 ST - CLEAR |
+| 18:00 ST - CLEAR |
 
 ## :crossed_swords: Meet the members
 
