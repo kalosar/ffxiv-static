@@ -99,11 +99,11 @@ We can help out with crafting :hammer_and_pick: if needed.
 
 ## :date: Schedule
 
-The first week we will go everyday `18:00 ST - 21:00 ST` then we will move over to the schedule below until clear. We will have a vote everyweek for extra days, but this is not guranteed and only soemthing we would do if everyone votes for it.
+The first week we will go everyday `19:00 ST - 22:00 ST` then we will move over to the schedule below until clear. We will have a vote everyweek for extra days, but this is not guranteed and only soemthing we would do if everyone votes for it.
 
 | Thursday            | Saturday            |
 | :-----------------: | :-----------------: |
-| 18:00 ST - 21:00 ST | 15:00 ST - 19:00 ST |
+| 19:00 ST - 22:00 ST | 17:00 ST - 21:00 ST |
 
 `ST = Server Time`
 ## :crossed_swords: Meet the members
