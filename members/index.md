@@ -64,14 +64,14 @@ const recruiting = [
     name: 'Melee',
     title: 'MNK | SAM | NIN',
     org: '',
-    orgLink: '',
+    orgLink: ''
   }.
   {
     avatar: '/rng4.svg',
     name: 'Physical Range',
     title: 'DNC | BRD',
     org: '',
-    orgLink: '',
+    orgLink: ''
   }
 ]
 
