@@ -30,11 +30,11 @@ const members = [
     ]
   },
   {
-    avatar: 'https://img2.finalfantasyxiv.com/f/41a6cce8bf7411adc78dc4c22a665608_5047bc596a4bab2dc7f7c120bb22dec5fc0_96x96.jpg?1664584758',
-    name: 'Siero Mclala',
-    title: 'Melee',
+    avatar: 'https://img2.finalfantasyxiv.com/f/8ad6e5ed3cdcb9c8a65be4567e17577b_39e25ac3d737c46452305eefe324372cfc0_96x96.jpg?1672429162',
+    name: 'Valwyn Remmis',
+    title: 'Barrier Healer',
     org: 'FFLOGS',
-    orgLink: 'https://www.fflogs.com/character/id/11604165',
+    orgLink: 'https://www.fflogs.com/character/id/16533656?mode=detailed&zone=49#'
   },
   {
     avatar: 'https://img2.finalfantasyxiv.com/f/03a93c1264f864a1b62f9a507ffd4943_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661719909',
@@ -42,13 +42,6 @@ const members = [
     title: 'Melee',
     org: 'FFLOGS',
     orgLink: 'https://www.fflogs.com/character/eu/ragnarok/meluna%20miyazaki',
-  },
-  {
-    avatar: 'https://img2.finalfantasyxiv.com/f/e5186396ae58e4e54ec955345e677046_f0a43d6e5eea19af337a176e9836acddfc0_96x96.jpg?1664613852',
-    name: 'Shizune Noraneko',
-    title: 'Ranged Physical',
-    org: 'FFLOGS',
-    orgLink: 'https://www.fflogs.com/character/id/18797922',
   },
   {
     avatar: 'https://img2.finalfantasyxiv.com/f/cb6632a5931eb842b9abfc842b2727c7_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1658452507',
@@ -67,9 +60,16 @@ const members = [
 
 const recruiting = [
   {
-    avatar: '/hlr4.svg',
-    name: 'Healer',
-    title: 'Barrier',
+    avatar: '/mel4.svg',
+    name: 'Melee',
+    title: 'MNK | SAM | NIN',
+    org: '',
+    orgLink: '',
+  }.
+  {
+    avatar: '/rng4.svg',
+    name: 'Physical Range',
+    title: 'DNC | BRD',
     org: '',
     orgLink: '',
   }
@@ -99,13 +99,13 @@ We can help out with crafting :hammer_and_pick: if needed.
 
 ## :date: Schedule
 
-We are currently in a reclear schedule. This means we aim to reclear all fights on tuesday reset.
+The first week we will go everyday `18:00 ST - 21:00 ST` then we will move over to the schedule below until clear. We will have a vote everyweek for extra days, but this is not guranteed and only soemthing we would do if everyone votes for it.
+
+| Thursday            | Saturday            |
+| :-----------------: | :-----------------: |
+| 18:00 ST - 21:00 ST | 15:00 ST - 19:00 ST |
+
 `ST = Server Time`
-
-| Tuesday          |
-| :--------------: |
-| 18:00 ST - CLEAR |
-
 ## :crossed_swords: Meet the members
 
 <VPTeamMembers size="medium" :members="members" />
