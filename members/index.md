@@ -65,7 +65,7 @@ const recruiting = [
     title: 'MNK | SAM | NIN',
     org: '',
     orgLink: ''
-  }.
+  },
   {
     avatar: '/rng4.svg',
     name: 'Physical Range',
