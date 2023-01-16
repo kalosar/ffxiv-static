@@ -79,7 +79,7 @@ const recruiting = [
 
 # Recruiting
 
-Limit Break is a long term sHC static whom engages in savage and ultimate content. What we are recruiting for now is only ultimate the ultimate group. Our standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill and be prepared.
+Limit Break is a long term sHC static whom engages in savage and ultimate content. What we are recruiting for now is only the ultimate group. Our standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill and be prepared.
 
 <!-- Limit Break is a long term sHC static whom engages in savage and ultimate content. We work on reclearing the current tier and building ourselves into becoming better players ready for the next tier and week 1 attempts. Limit Break's standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill. -->
 
