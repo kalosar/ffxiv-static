@@ -67,16 +67,9 @@ const members = [
 
 const recruiting = [
   {
-    avatar: '/mel4.svg',
-    name: 'Melee',
-    title: 'MNK | SAM | NIN',
-    org: '',
-    orgLink: ''
-  },
-  {
     avatar: '/rng4.svg',
     name: 'Physical Range',
-    title: 'DNC | BRD',
+    title: 'DNC | BRD | MCH',
     org: '',
     orgLink: ''
   }
