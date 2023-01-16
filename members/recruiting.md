@@ -101,7 +101,7 @@ It is really important that you understand your class and job very well. You do 
 
 ## :date: Schedule
 
-The first week we will go everyday `19:00 ST - 22:00 ST` then we will move over to a more casual schedule. We will have a vote everyweek for extra days, but this is not guranteed and only soemthing we would do if everyone votes for it.
+The first week we will go everyday `19:00 ST - 22:00 ST` then we will move over to a more casual schedule. We will have a vote everyweek for extra days, but this is not guranteed and only something we would do if everyone votes for it.
 
 ### Week 1
 
