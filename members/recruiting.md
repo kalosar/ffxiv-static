@@ -79,7 +79,9 @@ const recruiting = [
 
 # Recruiting
 
-Limit Break is a long term sHC static whom engages in savage and ultimate content. We work on reclearing the current tier and building ourselves into becoming better players ready for the next tier and week 1 attempts. Limit Break's standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill. 
+Limit Break is a long term sHC static whom engages in savage and ultimate content. What we are recruiting for now is only ultimate the ultimate group. Our standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill and be prepared.
+
+<!-- Limit Break is a long term sHC static whom engages in savage and ultimate content. We work on reclearing the current tier and building ourselves into becoming better players ready for the next tier and week 1 attempts. Limit Break's standard encourages people to give and receive constructive feedback, helping out your team members and spending the time necessary to build upon your own skill. -->
 
 ## Available slots
 
@@ -88,18 +90,26 @@ Limit Break is a long term sHC static whom engages in savage and ultimate conten
 
 ## :page_with_curl: Requirements
 
-It is really important that you understand your class and job very well. You do not have to have experience in a hardcore static or ultimate, just have hardcore mindset and strong prog mentality. At the top of this its important that you communicate well. Call out your own mistaks, or ask questions if you are not sure about something. This is how we keep a good momentum.
+It is really important that you understand your class and job very well. You do not have to have experience in a hardcore static or ultimate, just have hardcore mindset and strong prog mentality. We will look at logs, but logs is not everything. Use your class's kit fully. Consistency is key. At the top of this its important that you communicate well. Call out your own mistakes, or ask questions if you are not sure about something. This is how we keep a good momentum.
 
 :ballot_box_with_check: Discord VC <br>
 :ballot_box_with_check: Team Player  <br>
 :ballot_box_with_check: Prog mentality  <br>
 :ballot_box_with_check: Cleared current tier  <br>
 
-We can help out with crafting :hammer_and_pick: if needed.
+<!-- We can help out with crafting :hammer_and_pick: if needed.-->
 
 ## :date: Schedule
 
-The first week we will go everyday `19:00 ST - 22:00 ST` then we will move over to the schedule below until clear. We will have a vote everyweek for extra days, but this is not guranteed and only soemthing we would do if everyone votes for it.
+The first week we will go everyday `19:00 ST - 22:00 ST` then we will move over to a more casual schedule. We will have a vote everyweek for extra days, but this is not guranteed and only soemthing we would do if everyone votes for it.
+
+### Week 1
+
+| Tuesday - Sunday    |
+| :-----------------: |
+| 19:00 ST - 22:00 ST |
+
+### Week 2 and forward
 
 | Thursday            | Saturday            |
 | :-----------------: | :-----------------: |
