@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   lang: "en-US",
   title: "Limit Break",
-  description: "Hardcore FFXIV Savage Static",
+  description: "Soft Hardcore FFXIV Ultimate Static",
 
   lastUpdated: true,
 
