@@ -34,11 +34,18 @@ const members = [
     name: 'Valwyn Remmis',
     title: 'Barrier Healer',
     org: 'FFLOGS',
-    orgLink: 'https://www.fflogs.com/character/id/16533656?mode=detailed&zone=49#'
+    orgLink: 'https://www.fflogs.com/character/eu/phoenix/siero%20mclala#'
+  },
+  {
+    avatar: 'https://img2.finalfantasyxiv.com/f/41a6cce8bf7411adc78dc4c22a665608_5047bc596a4bab2dc7f7c120bb22dec5fc0_96x96.jpg?1673759205',
+    name: 'Meluna Miyazaki',
+    title: 'Melee',
+    org: 'FFLOGS',
+    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/meluna%20miyazaki',
   },
   {
     avatar: 'https://img2.finalfantasyxiv.com/f/03a93c1264f864a1b62f9a507ffd4943_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661719909',
-    name: 'Meluna Miyazaki',
+    name: 'Siero Mclala',
     title: 'Melee',
     org: 'FFLOGS',
     orgLink: 'https://www.fflogs.com/character/eu/ragnarok/meluna%20miyazaki',

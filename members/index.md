@@ -38,6 +38,13 @@ const members = [
   },
   {
     avatar: 'https://img2.finalfantasyxiv.com/f/03a93c1264f864a1b62f9a507ffd4943_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661719909',
+    name: 'Siero Mclala',
+    title: 'Melee',
+    org: 'FFLOGS',
+    orgLink: 'https://www.fflogs.com/character/eu/ragnarok/meluna%20miyazaki',
+  },
+  {
+    avatar: 'https://img2.finalfantasyxiv.com/f/03a93c1264f864a1b62f9a507ffd4943_40d57ba713628f3f1ef5ef204b6d76d2fc0_96x96.jpg?1661719909',
     name: 'Meluna Miyazaki',
     title: 'Melee',
     org: 'FFLOGS',
